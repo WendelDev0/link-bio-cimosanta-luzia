@@ -85,8 +85,7 @@ function App() {
               <img src="/logo-cimo.png" alt="CIMO Santa Luzia" />
             </div>
             <p className="eyebrow">Centro Medico e Odontologico</p>
-            <h1>CIMO Santa Luzia</h1>
-            <p className="intro">
+    <p className="intro">
               Exames laboratoriais, atendimento medico e odontologico em Sergipe.
             </p>
           </div>
