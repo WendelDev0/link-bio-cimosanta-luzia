@@ -53,7 +53,7 @@ const cities = [
 const formatPhone = (phone) => `(${phone.slice(0, 2)}) ${phone.slice(2, 7)}-${phone.slice(7)}`;
 const whatsappUrl = (city) =>
   `https://api.whatsapp.com/send?phone=55${city.phone}&text=${encodeURIComponent(
-    `Ola! Vim pelo Instagram e gostaria de agendar atendimento na unidade de ${city.name}.`
+    `Ola! Venho do Instagram e gostaria de contato com a unidade de ${city.name}.`
   )}`;
 
 function App() {
