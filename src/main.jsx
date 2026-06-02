@@ -86,7 +86,7 @@ function App() {
             </div>
             <p className="eyebrow">Centro Medico e Odontologico</p>
     <p className="intro">
-              Exames Laboratoriais, Cardiológicos, Ultrassonografias, Consultas Odontológicas, Oftalmológicos e Médicas em Geral.
+              Exames Laboratoriais, Cardiológicos, Ultrassonografias, Consultas Odontológicas, Oftalmológicas e Médicas em Geral.
             </p>
           </div>
 
