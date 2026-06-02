@@ -262,6 +262,8 @@ h1 {
   gap: 10px;
   text-align: center;
   padding-inline: 24px;
+  width: 100%;
+  overflow: hidden;
 }
 
 .intro-eyebrow {
@@ -283,7 +285,7 @@ h1 {
 }
 
 @keyframes titleReveal {
-  from { opacity: 0; letter-spacing: 0.35em; }
+  from { opacity: 0; letter-spacing: 0.12em; }
   to   { opacity: 1; letter-spacing: -0.01em; }
 }
 
