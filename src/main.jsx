@@ -86,7 +86,7 @@ function App() {
             </div>
             <p className="eyebrow">Centro Medico e Odontologico</p>
     <p className="intro">
-              Exames laboratoriais, atendimento medico e odontologico em Sergipe.
+              Exames Laboratoriais, Cardiológicos, Ultrassonografias, Consultas Odontológicas, Oftalmológicos e Médicas em Geral.
             </p>
           </div>
 
